@@ -572,9 +572,9 @@ https://youtu.be/1Qt-Pb3kMgI
 
 ---
 
-#Output
+## Output
 
-USER 
+@USER 
 sign up : <img width="1913" height="915" alt="image" src="https://github.com/user-attachments/assets/18e5fdfc-61ee-4623-a510-ec4003de23dc" />
 Dashboard : <img width="1901" height="918" alt="image" src="https://github.com/user-attachments/assets/4c91abab-ab6e-4672-8522-e8ee6f3bb5d3" />
 Creation of URL : <img width="1912" height="911" alt="image" src="https://github.com/user-attachments/assets/4077643a-dde0-47e1-8ed3-6baeb43724b2" />
@@ -583,7 +583,7 @@ QR : <img width="1912" height="911" alt="image" src="https://github.com/user-att
 Settings : <img width="1902" height="912" alt="image" src="https://github.com/user-attachments/assets/ac94adca-8965-42c8-81b2-c18f6409fa1d" />
 Analytics : <img width="1901" height="917" alt="image" src="https://github.com/user-attachments/assets/194eaa85-eb58-4a10-8376-0dfa41156596" />
 
-ADMIN
+@ADMIN
 
 Dashboard : <img width="1906" height="908" alt="image" src="https://github.com/user-attachments/assets/b943e037-1884-42c6-be23-c06809dad36d" />
 Users : <img width="1891" height="917" alt="image" src="https://github.com/user-attachments/assets/f429f162-c952-4820-9182-489513b7cf5d" />
@@ -591,9 +591,7 @@ Users link : <img width="1907" height="917" alt="image" src="https://github.com/
 Admin URL creation : <img width="1911" height="912" alt="image" src="https://github.com/user-attachments/assets/e3298796-cbad-4704-ad03-4c67706b0724" />
 Users link usage : <img width="1897" height="920" alt="image" src="https://github.com/user-attachments/assets/ff6525d1-3ba7-4179-82bf-9af16666191f" />
 
-
-
-
+---
 # Author
 
 Shanmugapriya S

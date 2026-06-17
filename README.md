@@ -1,5 +1,3 @@
-<img width="1913" height="915" alt="image" src="https://github.com/user-attachments/assets/24e31a48-78fb-4b54-9e1c-126092662894" /># Smart URL Shortener & Analytics Platform
-
 ## Overview
 
 Smart URL Shortener & Analytics Platform is a full-stack web application designed to simplify URL management while providing advanced analytics, security, monitoring, and reporting capabilities.

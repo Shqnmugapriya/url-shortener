@@ -139,9 +139,9 @@ function App() {
   }, [token]);
 
   // Setup Socket.io connection when user is logged in
-  useEffect(() => {
-    if (user) {
-      const socketConnection = io('http://localhost:5000');
+ useEffect(() => {
+  if (user) {
+    const socketConnection = io('https://url-shortener-j5z1.onrender.com');
       socketRef.current = socketConnection;
       setSocket(socketConnection);
 

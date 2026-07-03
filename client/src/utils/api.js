@@ -1,5 +1,4 @@
-const API_BASE = 'http://localhost:5000/api';
-
+const API_BASE = 'https://url-shortener-j5z1.onrender.com/api';
 // Helper to get auth headers
 function getHeaders() {
   const token = localStorage.getItem('token');
@@ -120,7 +119,7 @@ export const api = {
       return handleResponse(res);
     },
     async verifyPassword(shortCode, password) {
-      const res = await fetch(`http://localhost:5000/api/urls/verify-password/${shortCode}`, {
+      const res = await fetch(`${API_BASE}/urls/verify-password/${shortCode}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

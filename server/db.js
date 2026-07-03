@@ -7,6 +7,9 @@ const pool = new Pool({
   database: process.env.DB_DATABASE,
   password: process.env.DB_PASSWORD,
   port: process.env.DB_PORT,
+  ssl: {
+    rejectUnauthorized: false,
+  },
 });
 
 pool.on('connect', () => {
@@ -19,5 +22,5 @@ pool.on('error', (err) => {
 
 module.exports = {
   query: (text, params) => pool.query(text, params),
-  pool
+  pool,
 };
